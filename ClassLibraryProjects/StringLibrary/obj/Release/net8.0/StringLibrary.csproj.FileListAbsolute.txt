@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\ClassLibraryProjects\StringLibrary\bin\Release\net8.0\StringLibrary.deps.json
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\ClassLibraryProjects\StringLibrary\bin\Release\net8.0\StringLibrary.dll
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\ClassLibraryProjects\StringLibrary\bin\Release\net8.0\StringLibrary.pdb
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\StringLibrary.AssemblyInfo.cs
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\StringLibrary.dll
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\refint\StringLibrary.dll
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\StringLibrary.pdb
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\ClassLibraryProjects\StringLibrary\obj\Release\net8.0\ref\StringLibrary.dll

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\CarSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BB066C-B1D6-4C5A-9E69-BD0EEE3121D6}|CarLibraryTest\\CarLibraryTest.csproj|c:\\users\\admin\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\carsolution\\carlibrarytest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5BB066C-B1D6-4C5A-9E69-BD0EEE3121D6}|CarLibraryTest\\CarLibraryTest.csproj|solutionrelative:carlibrarytest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8F79AC-0C14-40F5-B7F7-F22B898A9607}|CarLibrary\\CarLibrary.csproj|c:\\users\\admin\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\carsolution\\carlibrary\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8F79AC-0C14-40F5-B7F7-F22B898A9607}|CarLibrary\\CarLibrary.csproj|solutionrelative:carlibrary\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8F79AC-0C14-40F5-B7F7-F22B898A9607}|CarLibrary\\CarLibrary.csproj|c:\\users\\admin\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\carsolution\\carlibrary\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8F79AC-0C14-40F5-B7F7-F22B898A9607}|CarLibrary\\CarLibrary.csproj|solutionrelative:carlibrary\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E418F2A-6B40-4A3A-BE42-FF4E34A97E50}|CarConsoleApp\\CarConsoleApp.csproj|c:\\users\\admin\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\carsolution\\carconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E418F2A-6B40-4A3A-BE42-FF4E34A97E50}|CarConsoleApp\\CarConsoleApp.csproj|solutionrelative:carconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BB066C-B1D6-4C5A-9E69-BD0EEE3121D6}|CarLibraryTest\\CarLibraryTest.csproj|c:\\users\\admin\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\carsolution\\carlibrarytest\\carlibrarytest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5BB066C-B1D6-4C5A-9E69-BD0EEE3121D6}|CarLibraryTest\\CarLibraryTest.csproj|solutionrelative:carlibrarytest\\carlibrarytest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BB066C-B1D6-4C5A-9E69-BD0EEE3121D6}|CarLibraryTest\\CarLibraryTest.csproj|c:\\users\\admin\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\carsolution\\carlibrarytest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5BB066C-B1D6-4C5A-9E69-BD0EEE3121D6}|CarLibraryTest\\CarLibraryTest.csproj|solutionrelative:carlibrarytest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8F79AC-0C14-40F5-B7F7-F22B898A9607}|CarLibrary\\CarLibrary.csproj|c:\\users\\admin\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\carsolution\\carlibrary\\passengercar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C8F79AC-0C14-40F5-B7F7-F22B898A9607}|CarLibrary\\CarLibrary.csproj|solutionrelative:carlibrary\\passengercar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarLibraryTest",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\CarSolution\\CarLibraryTest\\CarLibraryTest.csproj",
+              "RelativeDocumentMoniker": "CarLibraryTest\\CarLibraryTest.csproj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\CarSolution\\CarLibraryTest\\CarLibraryTest.csproj",
+              "RelativeToolTip": "CarLibraryTest\\CarLibraryTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T14:49:43.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\CarSolution\\CarLibraryTest\\Test1.cs",
+              "RelativeDocumentMoniker": "CarLibraryTest\\Test1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\CarSolution\\CarLibraryTest\\Test1.cs",
+              "RelativeToolTip": "CarLibraryTest\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:40:04.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\CarSolution\\CarLibraryTest\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "CarLibraryTest\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\CarSolution\\CarLibraryTest\\MSTestSettings.cs",
+              "RelativeToolTip": "CarLibraryTest\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:39:32.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PassengerCar.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\CarSolution\\CarLibrary\\PassengerCar.cs",
+              "RelativeDocumentMoniker": "CarLibrary\\PassengerCar.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\CarSolution\\CarLibrary\\PassengerCar.cs",
+              "RelativeToolTip": "CarLibrary\\PassengerCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:34:58.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\CarSolution\\CarLibrary\\Truck.cs",
+              "RelativeDocumentMoniker": "CarLibrary\\Truck.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\CarSolution\\CarLibrary\\Truck.cs",
+              "RelativeToolTip": "CarLibrary\\Truck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:31:52.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\CarSolution\\CarConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "CarConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\CarSolution\\CarConsoleApp\\Program.cs",
+              "RelativeToolTip": "CarConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:20:43.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\CarSolution\\CarLibrary\\Car.cs",
+              "RelativeDocumentMoniker": "CarLibrary\\Car.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0440\u043E\u0441-\u043F\u043B\u0430\u0442\u0444\u043E\u0440\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\CarSolution\\CarLibrary\\Car.cs",
+              "RelativeToolTip": "CarLibrary\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:18:05.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

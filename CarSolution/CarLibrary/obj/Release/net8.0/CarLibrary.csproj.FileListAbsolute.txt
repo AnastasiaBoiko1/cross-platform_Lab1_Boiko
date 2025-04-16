@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\CarSolution\CarLibrary\bin\Release\net8.0\CarLibrary.deps.json
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\CarSolution\CarLibrary\bin\Release\net8.0\CarLibrary.dll
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\CarSolution\CarLibrary\bin\Release\net8.0\CarLibrary.pdb
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\CarSolution\CarLibrary\obj\Release\net8.0\CarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\CarSolution\CarLibrary\obj\Release\net8.0\CarLibrary.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\CarSolution\CarLibrary\obj\Release\net8.0\CarLibrary.AssemblyInfo.cs
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\CarSolution\CarLibrary\obj\Release\net8.0\CarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\CarSolution\CarLibrary\obj\Release\net8.0\CarLibrary.dll
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\CarSolution\CarLibrary\obj\Release\net8.0\refint\CarLibrary.dll
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\CarSolution\CarLibrary\obj\Release\net8.0\CarLibrary.pdb
+C:\Users\admin\Desktop\Навчання\Крос-платформне програм\CarSolution\CarLibrary\obj\Release\net8.0\ref\CarLibrary.dll
